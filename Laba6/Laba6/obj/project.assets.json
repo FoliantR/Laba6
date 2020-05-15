@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\79158\\.nuget\\packages\\": {}
+    "C:\\Users\\Stepan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\79158\\Desktop\\Laba6\\Laba6\\Laba6\\Laba6.csproj",
+      "projectUniqueName": "C:\\Users\\Stepan\\Desktop\\2 семестр\\Лаба Классы 6\\Laba6\\Laba6\\Laba6.csproj",
       "projectName": "Laba6",
-      "projectPath": "C:\\Users\\79158\\Desktop\\Laba6\\Laba6\\Laba6\\Laba6.csproj",
-      "packagesPath": "C:\\Users\\79158\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\79158\\Desktop\\Laba6\\Laba6\\Laba6\\obj\\",
+      "projectPath": "C:\\Users\\Stepan\\Desktop\\2 семестр\\Лаба Классы 6\\Laba6\\Laba6\\Laba6.csproj",
+      "packagesPath": "C:\\Users\\Stepan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Stepan\\Desktop\\2 семестр\\Лаба Классы 6\\Laba6\\Laba6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\79158\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Stepan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
